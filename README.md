@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Roshan 👋
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/Roshan.gamage.BG/)
+
+I'm a Full-stack developer in Sri Lanka. Works with most modern frameworks/stacks.
+
+
 
 <!--
 **RoshanGamage01/RoshanGamage01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
