@@ -1,8 +1,6 @@
 # Hi there, I'm Roshan 👋
 I'm a self-taught Full-stack developer in Sri Lanka.
 
-<img src="https://activity-graph.herokuapp.com/graph?username=RoshanGamage01&theme=dark"/>
-
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/Roshan.gamage.BG/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/roshangamage01/)
 
 ## 🕸️ WEB DEV
@@ -35,4 +33,4 @@ I'm a self-taught Full-stack developer in Sri Lanka.
 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
 
-
+<img src="https://activity-graph.herokuapp.com/graph?username=RoshanGamage01&theme=dark"/>
