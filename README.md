@@ -1,5 +1,5 @@
 # Hi there, I'm Roshan 👋
-I'm a self-taught Full-stack developer in Sri Lanka.
+I'm a self-learnt Full-stack developer in Sri Lanka.
 
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/Roshan.gamage.BG/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/roshangamage01/)
 
