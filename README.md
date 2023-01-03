@@ -9,7 +9,7 @@ Self-taught full stack web developer with skills in front-end and back-end techn
 *   🌍  I'm based in Sri Lanka
 *   ✉️  You can contact me at [apple.roshangamage@gmail.com](mailto:apple.roshangamage@gmail.com)
 *   🚀  I'm currently working on [Student Management System (As a Front-End Developer)](http://v2.deiyandarans.lk)
-*   🧠  I'm learning Javascript and Python### Skills 
+*   🧠  I'm learning Javascript and Python 
 
 ### Skills
 
