@@ -4,8 +4,7 @@ Hi 👋 My name is Chamika Roshan
 Full-Stack Developer
 --------------------
 
-Self-taught full stack web developer with skills in front-end and back-end technologies, including various programming languages and frameworks. Based in Sri Lanka with a passion for staying up-to-date and delivering high-quality work. Able to design and build interactive websites and web applications, and troubleshoot and debug issues as needed.
-
+Self-taught full stack web developer with skills in front-end and back-end technologies, including various programming languages and frameworks.
 *   🌍  I'm based in Sri Lanka
 *   ✉️  You can contact me at [apple.roshangamage@gmail.com](mailto:apple.roshangamage@gmail.com)
 *   🚀  I'm currently working on [Student Management System (As a Front-End Developer)](http://v2.deiyandarans.lk)
