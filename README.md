@@ -35,6 +35,7 @@ Self-taught full stack web developer with skills in front-end and back-end techn
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+[![Open Source Helpers](https://www.codetriage.com/python/cpython/badges/users.svg)](https://www.codetriage.com/python/cpython)
                     
 ### Socials
                   
