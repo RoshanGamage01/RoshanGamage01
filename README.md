@@ -1,7 +1,7 @@
 Hi 👋 My name is Chamika Roshan
 ===============================
 
-Full-Stack Developer
+Self-Taught Software Engineer
 --------------------
 
 Self-taught full stack web developer with skills in front-end and back-end technologies, including various programming languages and frameworks.
