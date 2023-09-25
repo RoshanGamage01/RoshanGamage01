@@ -8,7 +8,7 @@ Self-taught full stack developer with skills in front-end and back-end technolog
 *   🌍  I'm based in Sri Lanka
 *   🖥️  See my portfolio at [Roshan Gamage](http://roshan-gamage.netlify.app/)
 *   ✉️  You can contact me at [apple.roshangamage@gmail.com](mailto:apple.roshangamage@gmail.com)
-*   🚀  I'm currently working on [Student Management System (As a Full-stack Developer)](http://v2.deiyandarans.lk)
+*   🚀  I'm currently working on Attrex digital (Software Engineer)
 *   🧠  I'm learning Javascript and Python 
 
 ## My Projects
