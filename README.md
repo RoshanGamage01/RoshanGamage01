@@ -1,4 +1,4 @@
-Hi 👋 My name is Chamika Roshan
+Hi 👋 My name is Roshan Gamage
 ===============================
 
 Self-Taught Software Developer
