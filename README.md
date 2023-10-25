@@ -4,7 +4,6 @@ Hi 👋 My name is Roshan Gamage
 Self-Taught Software Developer
 --------------------
 
-Self-taught full stack developer with skills in front-end and back-end technologies, including various programming languages and frameworks.
 *   🌍  I'm based in Sri Lanka
 *   🖥️  See my portfolio at [Roshan Gamage](http://roshan-gamage.netlify.app/)
 *   ✉️  You can contact me at [apple.roshangamage@gmail.com](mailto:apple.roshangamage@gmail.com)
