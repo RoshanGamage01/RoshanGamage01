@@ -10,10 +10,6 @@ Self-Taught Software Developer
 *   🚀  I'm currently working on Attrex digital (Software Engineer)
 *   🧠  I'm learning Javascript and Python 
 
-## My Projects
-
-*   [Winvest](https://winvest.lk/) (!currently unavailable)
-*   [Colour roo](https://colour-roo.netlify.app/)
 
 ### Skills
 
