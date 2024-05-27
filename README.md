@@ -8,7 +8,7 @@ Self-Taught Software Developer
 *   🖥️  See my portfolio at [Roshan Gamage](http://roshan-gamage.netlify.app/)
 *   ✉️  You can contact me at [apple.roshangamage@gmail.com](mailto:apple.roshangamage@gmail.com)
 *   🚀  I'm currently working on PrologicsIT (Software Engineer)
-*   🧠  I'm learning Rust 
+*   🧠  I'm learning Django 
 
 
 ### Skills
