@@ -9,7 +9,7 @@
 -  🖥️  See my portfolio at [Roshan Gamage](http://roshan-gamage.netlify.app/)
 -   ✉️  You can contact me at [apple.roshangamage@gmail.com](mailto:apple.roshangamage@gmail.com)
 -   🚀  I’m currently working as a **Fullstack Developer in PrologicsIT**
--   🧠  I'm learning Artificial Nural Networks
+-   🧠  I'm learning Retrieval-Augmented Generation
 
 <br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RoshanGamage01&theme=radical&hide_border=false)<br/>
