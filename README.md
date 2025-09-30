@@ -19,7 +19,7 @@
 ---
 
 ## Snapshot
-- 🧑‍💻 Full-stack developer at **Prologics IT**, shipping features across Laravel, React, and Node.js ecosystems.
+- 🧑‍💻 Full-stack developer at **Prologics IT**, shipping features across React, and Node.js ecosystems.
 - 🚀 Exploring **retrieval-augmented generation** to craft production-friendly AI assistants.
 - 🛠️ Passionate about developer experience, automation, and delivering maintainable code at startup speed.
 - 🌱 Active collaborator who enjoys mentoring peers and building learning resources through open-source work.
@@ -38,8 +38,8 @@
 - [Repository](https://github.com/RoshanGamage01/Fast-Fourier-transform)
 
 ### handwritten_image_classifier
-- Full-stack application that trains and serves an MNIST digit recognizer with a web demo.
-- Combines a TensorFlow-based model with a JavaScript front end for interactive predictions.
+- Python-based feedforward neural network built from scratch to classify handwritten digits.
+- Trains and evaluates directly on the MNIST dataset, showcasing core deep learning fundamentals.
 - [Repository](https://github.com/RoshanGamage01/handwritten_image_classifier)
 
 > Explore more work on [GitHub](https://github.com/RoshanGamage01?tab=repositories).
@@ -54,7 +54,9 @@
 ## Learning & Experiments
 - Architecting RAG pipelines that blend vector search with traditional knowledge bases.
 - Prototyping AI-assisted productivity tools tailored for engineering teams.
+- Pairing mathematics with programming to build intuitive applications that are useful in the real world.
 - Exploring signal processing concepts through Python visualisations and interactive demos.
+- Experimenting with MERN optimisation strategies to squeeze more performance from production apps.
 
 ## Activity
 <div align="center">
