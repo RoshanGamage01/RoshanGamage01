@@ -1,40 +1,76 @@
-| [![Roshan Gamage](https://img.shields.io/badge/ROSHAN-GAMAGE-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=RoshanGamage01&color=green) | ![Followers](https://img.shields.io/github/followers/RoshanGamage01) | ![Stars](https://img.shields.io/github/stars/RoshanGamage01?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
---| --| --| --|
+## Roshan Gamage
 
-<h1 align="center">Hi 👋, I'm Roshan Gamage</h1>
-<h3 align="center">Software engineer based in Sri Lanka</h3>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/87382447?v=4" alt="Roshan Gamage" width="120" height="120" style="border-radius:50%" />
+  <h3>Full-stack Engineer · Colombo, Sri Lanka</h3>
+  <p>Turning product ideas into resilient web and mobile experiences with clean architecture and a product-first mindset.</p>
+  <p>
+    <a href="http://roshan-gamage.netlify.app/">Portfolio</a> ·
+    <a href="mailto:apple.roshangamage@gmail.com">Email</a> ·
+    <a href="https://www.linkedin.com/in/roshan-gamage-803599243">LinkedIn</a>
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=RoshanGamage01&color=green" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/RoshanGamage01?label=Followers" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/RoshanGamage01?label=Profile%20Stars" alt="Stars" />
+  </p>
+</div>
 
-<p align="left">  </p>
+---
 
--  🖥️  See my portfolio at [Roshan Gamage](http://roshan-gamage.netlify.app/)
--   ✉️  You can contact me at [apple.roshangamage@gmail.com](mailto:apple.roshangamage@gmail.com)
--   🚀  I’m currently working as a **Fullstack Developer in PrologicsIT**
--   🧠  I'm learning Retrieval-Augmented Generation
+## Snapshot
+- 🧑‍💻 Full-stack developer at **Prologics IT**, shipping features across Laravel, React, and Node.js ecosystems.
+- 🚀 Exploring **retrieval-augmented generation** to craft production-friendly AI assistants.
+- 🛠️ Passionate about developer experience, automation, and delivering maintainable code at startup speed.
+- 🌱 Active collaborator who enjoys mentoring peers and building learning resources through open-source work.
 
-<br><br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RoshanGamage01&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanGamage01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Experience Highlights
+**Prologics IT — Full-stack Developer**  
+`Current`
+- Delivering end-to-end product features, from database design to polished UX on web and mobile surfaces.
+- Building RESTful APIs, integrations, and dashboards that help teams monitor and act on real-time data.
+- Partnering with designers and product owners to iterate quickly while keeping quality and accessibility in focus.
 
-### Skills
+## Featured Projects
+### Fast-Fourier-transform
+- Hands-on implementation of FFT and inverse FFT algorithms with annotated explanations.
+- Benchmarks performance and accuracy to demystify the mathematics behind signal processing.
+- [Repository](https://github.com/RoshanGamage01/Fast-Fourier-transform)
 
-<p align="left">
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-            
-### Socials
-                  
-                  
- <p align="left">
-                          
-<p align="left"> <a href="https://discord.com/users/roshan#1767" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/Roshan.Gamage.BG" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/RoshanGamage01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/roshangamage01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/roshan-gamage-803599243" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### handwritten_image_classifier
+- Full-stack application that trains and serves an MNIST digit recognizer with a web demo.
+- Combines a TensorFlow-based model with a JavaScript front end for interactive predictions.
+- [Repository](https://github.com/RoshanGamage01/handwritten_image_classifier)
+
+> Explore more work on [GitHub](https://github.com/RoshanGamage01?tab=repositories).
+
+## Skills & Tools
+**Frontend**: React, React Native, Flutter, Tailwind CSS  
+**Backend**: Node.js, Express, Laravel, PHP, Python  
+**Databases**: MongoDB, MySQL  
+**Languages**: JavaScript, TypeScript, Python, PHP  
+**Design & Collaboration**: Figma, GitHub, Discord
+
+## Learning & Experiments
+- Architecting RAG pipelines that blend vector search with traditional knowledge bases.
+- Prototyping AI-assisted productivity tools tailored for engineering teams.
+- Exploring signal processing concepts through Python visualisations and interactive demos.
+
+## Activity
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanGamage01&theme=radical&hide_border=false" alt="Roshan's GitHub streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanGamage01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Roshan's top languages" />
+</div>
+
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/roshan-gamage-803599243)
+- [GitHub](https://github.com/RoshanGamage01)
+- [Instagram](http://www.instagram.com/roshangamage01)
+- [Facebook](https://www.facebook.com/Roshan.Gamage.BG)
+- Discord: `roshan#1767`
+- [Email](mailto:apple.roshangamage@gmail.com)
+
+---
+
+> “Why be a king, when you can be a God.” — keeping curiosity and ambition at the core of every build.
