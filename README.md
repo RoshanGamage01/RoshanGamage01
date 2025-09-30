@@ -25,11 +25,21 @@
 - 🌱 Active collaborator who enjoys mentoring peers and building learning resources through open-source work.
 
 ## Experience Highlights
-**Prologics IT — Full-stack Developer**  
-`Current`
-- Delivering end-to-end product features, from database design to polished UX on web and mobile surfaces.
+**Prologics IT Solutions — Senior Software Engineer**  
+`2024 – Present`
+- Joined as a Software Engineer and rapidly advanced to Senior, owning end-to-end delivery from database design to polished UX.
 - Building RESTful APIs, integrations, and dashboards that help teams monitor and act on real-time data.
 - Partnering with designers and product owners to iterate quickly while keeping quality and accessibility in focus.
+
+**Attrex Digital — Associate Software Engineer**  
+`2023`
+- Delivered Laravel and MySQL solutions that bridge traditional web platforms with Web 3.0 initiatives.
+- Collaborated on smart contract interactions and transaction handling pipelines to keep decentralized features reliable.
+
+**Codewox — Intern Web Developer**  
+`2023`
+- Built responsive web interfaces with HTML, CSS, and JavaScript to support client projects.
+- Experimented with Tailwind CSS and introduced the framework to the team to speed up UI delivery.
 
 ## Featured Projects
 ### Fast-Fourier-transform
